@@ -63,17 +63,6 @@ I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a p
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminMosallanejad339&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF" alt="Amin's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AminMosallanejad339&theme=dark&hide_border=true&background=0D1117&stroke=1ABC9C&ring=1ABC9C&fire=1ABC9C&currStreakLabel=1ABC9C" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminMosallanejad339&theme=react-dark&bg_color=0D1117&hide_border=true&color=1ABC9C&line=1ABC9C&point=FFFFFF" alt="GitHub Activity Graph" width="90%" />
-</p>
-
 ---
 
 ## 📈 Skills Proficiency
@@ -135,19 +124,21 @@ Interactive dashboard for real-time water quality monitoring and analysis.
 
 ---
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Machine Learning Applications in Wastewater Treatment](https://medium.com/@aminmosallanejad)
-- [Building Data Pipelines with Apache Airflow](https://medium.com/@aminmosallanejad)
-- [From Chemical Engineering to Data Science: My Journey](https://medium.com/@aminmosallanejad)
-<!-- BLOG-POST-LIST:END -->
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AminMosallanejad339/AminMosallanejad339/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminMosallanejad339&theme=react-dark&bg_color=0D1117&hide_border=true&color=1ABC9C&line=1ABC9C&point=FFFFFF" alt="GitHub Activity Graph" width="90%" />
 </p>
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AminMosallanejad339&theme=darkhub&row=1&margin-w=15" alt="GitHub trophies" />
+</p>
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AminMosallanejad339&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminMosallanejad339&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=FFFFFF" alt="Top Languages" width="45%" />
+</p>
+
 <p align="center">
   <i>"Turning data into solutions for a sustainable future"</i>
 </p>
