@@ -101,7 +101,7 @@ Automated data pipelines with Airflow for processing environmental sensor data.
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-ETL-017CEE?style=flat&logo=apache-airflow)
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python)
 
-### [Linux Practice Lab](https://github.com/AminMosallanejad339/LabForLinux_Pro))
+### [Linux Practice Lab](https://github.com/AminMosallanejad339/LabForLinux_Pro)
 Interactive dashboard for real-time water quality monitoring and analysis.
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Analytics-1ABC9C?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat&logo=streamlit)
