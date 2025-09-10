@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=Amin+Mosallanejad;Utility Engineerin+Data+%26+Engineer/Scientist;MSc+Data+e" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AminMosallanejad339&label=Profile%20Views&color=1ABC9C&style=flat" alt="Profile Views" />
-  <a href="https://github.com/AminMosallanejad339?tab=followers">
-    <img src="https://img.shields.io/github/followers/AminMosallanejad339?label=Followers&style=social" alt="GitHub Followers">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1500&color=F4D03F&center=true&vCenter=true&width=680&lines=Hello%2C+I+am+Amin+Mosallanejad;Utility+Engineer;Specialist+in+Water+and+Wastewater+Treatment;Data+Scientist+and+Data+Engineer;Nice+to+Meet+You!" alt="Typing SVG" />
 </p>
 
 ## 👋 About Me
@@ -14,37 +7,61 @@
 I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a passion for applying machine learning to optimize wastewater treatment processes. My unique background allows me to bridge the gap between engineering problems and data-driven solutions.
 
 - 🔭 I’m currently working on **ML for Wastewater Optimization**
-- 🌱 I’m learning **Advanced Data Engineering techniques**
+- 🌱 I’m learning **Data Engineering techniques**
 - 👯 I’m looking to collaborate on **Environmental Data Science projects**
-- 💬 Ask me about **Water Treatment, Data Engineering, Python**
+- 💬 Lets Talk about **Water Treatment, Data Engineering**
 - 📫 How to reach me: **mosallanejadamin1400@gmail.com**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Data Science & Engineering
+### Data Science 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### Deep Learning & NLP
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Mathematics 
+![Calculus](https://img.shields.io/badge/Calculus-1E8449?style=for-the-badge&logo=mathworks&logoColor=white)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-2E86AB?style=for-the-badge&logo=mathworks&logoColor=white)
+![Probability](https://img.shields.io/badge/Probability-8E44AD?style=for-the-badge&logo=mathworks&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-3498DB?style=for-the-badge&logo=mathworks&logoColor=white)
+
 ### Data Engineering
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-00B0EF?style=for-the-badge&logo=apachenifi&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-8C4FFF?style=for-the-badge&logo=minio&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### DevOps & Cloud
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
+
+### Utilities & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -129,9 +146,8 @@ Interactive dashboard for real-time water quality monitoring and analysis.
 ---
 
 <p align="center">
-  <img src="https://github.com/AminMosallanejad339/AminMosallanejad339/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AminMosallanejad339/AminMosallanejad339/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 <p align="center">
   <i>"Turning data into solutions for a sustainable future"</i>
 </p>
