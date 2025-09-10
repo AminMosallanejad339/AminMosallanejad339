@@ -13,81 +13,56 @@ I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a p
 - 📫 How to reach me: **mosallanejadamin1400@gmail.com**
 
 ---
-
 ## 🛠️ Technologies & Tools
 
 ### Data Science 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 ### Deep Learning & NLP
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
 ### Mathematics 
-![Calculus](https://img.shields.io/badge/Calculus-1E8449?style=for-the-badge&logo=mathworks&logoColor=white)
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-2E86AB?style=for-the-badge&logo=mathworks&logoColor=white)
-![Probability](https://img.shields.io/badge/Probability-8E44AD?style=for-the-badge&logo=mathworks&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-3498DB?style=for-the-badge&logo=mathworks&logoColor=white)
+[![Calculus](https://img.shields.io/badge/Calculus-1E8449?style=for-the-badge&logo=mathworks&logoColor=white)](https://en.wikipedia.org/wiki/Calculus)
+[![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-2E86AB?style=for-the-badge&logo=mathworks&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
+[![Probability](https://img.shields.io/badge/Probability-8E44AD?style=for-the-badge&logo=mathworks&logoColor=white)](https://en.wikipedia.org/wiki/Probability)
+[![Statistics](https://img.shields.io/badge/Statistics-3498DB?style=for-the-badge&logo=mathworks&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
 
 ### Data Engineering
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-00B0EF?style=for-the-badge&logo=apachenifi&logoColor=white)
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)](https://spark.apache.org/)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
+[![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-00B0EF?style=for-the-badge&logo=apachenifi&logoColor=white)](https://nifi.apache.org/)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-8C4FFF?style=for-the-badge&logo=minio&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MinIO](https://img.shields.io/badge/MinIO-8C4FFF?style=for-the-badge&logo=minio&logoColor=white)](https://min.io/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
 ### DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=githubactions&logoColor=white)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 ### Utilities & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
-## 📈 Skills Proficiency
-
-<!-- HTML for skill bars -->
-<p align="center">
-  
-**Data Science & ML**<br>
-![Python](https://img.shields.io/badge/Python-90%25-1ABC9C?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-85%25-1ABC9C?style=flat)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-80%25-1ABC9C?style=flat)
-
-**Data Engineering**<br>
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-80%25-1ABC9C?style=flat)
-![Docker](https://img.shields.io/badge/Docker-75%25-1ABC9C?style=flat)
-![SQL](https://img.shields.io/badge/SQL-85%25-1ABC9C?style=flat)
-
-**Domain Expertise**<br>
-![Wastewater Treatment](https://img.shields.io/badge/Wastewater%20Treatment-95%25-1ABC9C?style=flat)
-![Water Quality Control](https://img.shields.io/badge/Water%20Quality%20Control-90%25-1ABC9C?style=flat)
-![Environmental Remediation](https://img.shields.io/badge/Environmental%20Remediation-90%25-1ABC9C?style=flat)
-
-</p>
-
----
 
 ## 🚀 Featured Projects
 
