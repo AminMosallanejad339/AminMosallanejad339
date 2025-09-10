@@ -1,1 +1,767 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amin Mosallanejad | Data Scientist & Engineer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --accent: #1abc9c;
+            --light: #ecf0f1;
+            --dark: #34495e;
+            --github-dark: #0d1117;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: var(--github-dark);
+            color: #f0f6fc;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .container {
+            background-color: var(--dark);
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            position: relative;
+        }
+        
+        .avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 5px solid rgba(255, 255, 255, 0.3);
+            margin: 0 auto 20px;
+            background: linear-gradient(45deg, var(--accent), var(--secondary));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 60px;
+            color: white;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .tagline {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 20px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 12px 25px;
+            background-color: rgba(255, 255, 255, 0.15);
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+        
+        .btn i {
+            margin-right: 8px;
+        }
+        
+        .btn:hover {
+            background-color: white;
+            color: var(--primary);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        section {
+            background-color: rgba(13, 17, 23, 0.8);
+            border-radius: 10px;
+            padding: 30px;
+            margin: 20px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        h2 {
+            color: var(--accent);
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--secondary);
+            display: flex;
+            align-items: center;
+        }
+        
+        h2 i {
+            margin-right: 10px;
+        }
+        
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        
+        .skill-category {
+            margin-bottom: 20px;
+        }
+        
+        .skill-category h3 {
+            color: var(--secondary);
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .skill-category h3 i {
+            margin-right: 8px;
+        }
+        
+        .skill {
+            margin-bottom: 15px;
+        }
+        
+        .skill-name {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+        
+        .skill-bar {
+            height: 10px;
+            background-color: var(--light);
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        
+        .skill-level {
+            height: 100%;
+            background: linear-gradient(90deg, var(--secondary) 0%, var(--accent) 100%);
+            border-radius: 5px;
+            transition: width 1s ease-in-out;
+        }
+        
+        .chart-container {
+            position: relative;
+            height: 300px;
+            margin: 20px 0;
+        }
+        
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        
+        .project-card {
+            background: linear-gradient(145deg, #1e2a38, #253141);
+            border-radius: 10px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+            border-color: var(--accent);
+        }
+        
+        .project-card h3 {
+            color: var(--accent);
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .project-card h3 i {
+            margin-right: 8px;
+            font-size: 0.9em;
+        }
+        
+        .project-card p {
+            color: #c9d1d9;
+            font-size: 0.95rem;
+            flex-grow: 1;
+        }
+        
+        .badges {
+            margin-top: 15px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            background: linear-gradient(45deg, var(--secondary), var(--primary));
+            color: white;
+            border-radius: 15px;
+            font-size: 0.75rem;
+        }
+        
+        .github-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .stat-card {
+            background: linear-gradient(145deg, #1e2a38, #253141);
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .stat-card h3 {
+            color: var(--secondary);
+            margin-bottom: 10px;
+            font-size: 1rem;
+        }
+        
+        .stat-card p {
+            color: var(--accent);
+            font-size: 1.8rem;
+            font-weight: bold;
+        }
+        
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 1px solid var(--secondary);
+        }
+        
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            background: transparent;
+            color: #c9d1d9;
+            border: none;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s ease;
+        }
+        
+        .tab.active {
+            color: var(--accent);
+            border-bottom: 3px solid var(--accent);
+        }
+        
+        .tab-content {
+            display: none;
+        }
+        
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.5s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        
+        .interactive-section {
+            background: linear-gradient(145deg, #1e2a38, #253141);
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .interactive-section h3 {
+            color: var(--accent);
+            margin-bottom: 15px;
+        }
+        
+        .form-group {
+            margin-bottom: 15px;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            color: #c9d1d9;
+        }
+        
+        .form-group input, .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            background-color: rgba(13, 17, 23, 0.7);
+            color: white;
+        }
+        
+        .form-group textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+        
+        .submit-btn {
+            background: linear-gradient(90deg, var(--secondary) 0%, var(--accent) 100%);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 30px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .submit-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #8b949e;
+            font-size: 0.9rem;
+            margin-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .mode-toggle {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
+            padding: 5px 10px;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .mode-toggle:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+        
+        @media screen and (max-width: 768px) {
+            .skills-container, .projects-grid, .github-stats {
+                grid-template-columns: 1fr;
+            }
+            
+            .contact-links {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .btn {
+                width: 100%;
+                justify-content: center;
+                margin-bottom: 10px;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .tagline {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <button class="mode-toggle" id="modeToggle">
+                <i class="fas fa-moon"></i> Dark Mode
+            </button>
+            <div class="avatar">
+                <i class="fas fa-user-graduate"></i>
+            </div>
+            <h1>Amin Mosallanejad</h1>
+            <p class="tagline">MSc in Data Science & Business Analytics | Chemical Engineer turned Data Scientist</p>
+            <p>Machine Learning for Wastewater Optimization | Water Treatment | Wastewater Treatment | Utility (Refinery)</p>
+            <div class="contact-links">
+                <a href="mailto:mosallanejadamin1400@gmail.com" class="btn">
+                    <i class="fas fa-envelope"></i> Email Me
+                </a>
+                <a href="https://www.linkedin.com/in/amin-mosallanejad" class="btn">
+                    <i class="fab fa-linkedin"></i> LinkedIn
+                </a>
+                <a href="https://aminmosallanejad339.github.io" class="btn">
+                    <i class="fas fa-briefcase"></i> Portfolio
+                </a>
+                <a href="https://github.com/AminMosallanejad339" class="btn">
+                    <i class="fab fa-github"></i> GitHub
+                </a>
+            </div>
+        </header>
+        
+        <section id="about">
+            <h2><i class="fas fa-user"></i> About Me</h2>
+            <p>Experienced chemical engineer transitioning into data science with expertise in environmental solutions. I combine domain knowledge in water and wastewater treatment with advanced data analytics skills to drive optimization and innovation in environmental engineering.</p>
+            <p>My unique background allows me to bridge the gap between engineering problems and data-driven solutions, particularly in wastewater optimization, utility management, and environmental remediation.</p>
+            
+            <div class="tabs">
+                <button class="tab active" data-tab="education">Education</button>
+                <button class="tab" data-tab="experience">Experience</button>
+                <button class="tab" data-tab="certifications">Certifications</button>
+            </div>
+            
+            <div class="tab-content active" id="education-content">
+                <ul>
+                    <li><strong>MSc Data Science & Business Analytics</strong> - APU + DMU (Focus on Data Engineering)</li>
+                    <li><strong>MSc Chemical Engineering – Biotechnology</strong> - Specialized in biological systems for environmental solutions</li>
+                    <li><strong>BSc Chemical Engineering – Refining</strong> - Foundation in chemical processes and utilities</li>
+                </ul>
+            </div>
+            
+            <div class="tab-content" id="experience-content">
+                <ul>
+                    <li><strong>Engineering Consultant</strong> - International consulting services for water and wastewater treatment systems</li>
+                    <li><strong>Data Science Specialist</strong> - Machine learning applications for environmental optimization</li>
+                    <li><strong>Chemical Engineer</strong> - Utility management, wastewater treatment, and water quality control</li>
+                </ul>
+            </div>
+            
+            <div class="tab-content" id="certifications-content">
+                <ul>
+                    <li><strong>Data Engineering</strong> - Various workshops and training programs</li>
+                    <li><strong>Environmental Engineering</strong> - Industry certifications and specializations</li>
+                    <li><strong>Cloud Technologies</strong> - Platform certifications and practical experience</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section id="skills">
+            <h2><i class="fas fa-laptop-code"></i> Technical Skills</h2>
+            <div class="skills-container">
+                <div class="skill-category">
+                    <h3><i class="fas fa-chart-line"></i> Data Science & Engineering</h3>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Python</span>
+                            <span>90%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Machine Learning</span>
+                            <span>85%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 85%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Data Visualization</span>
+                            <span>80%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 80%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>SQL</span>
+                            <span>85%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 85%"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h3><i class="fas fa-cogs"></i> Data Engineering Tools</h3>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Apache Airflow</span>
+                            <span>80%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 80%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Docker</span>
+                            <span>75%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 75%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Apache Spark</span>
+                            <span>70%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 70%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>ELK Stack</span>
+                            <span>65%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 65%"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="skill-category">
+                    <h3><i class="fas fa-industry"></i> Domain Expertise</h3>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Wastewater Treatment</span>
+                            <span>95%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 95%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Water Quality Control</span>
+                            <span>90%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 90%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Utility Management</span>
+                            <span>85%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 85%"></div>
+                        </div>
+                    </div>
+                    <div class="skill">
+                        <div class="skill-name">
+                            <span>Environmental Remediation</span>
+                            <span>90%</span>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-level" style="width: 90%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="projects">
+            <h2><i class="fas fa-project-diagram"></i> Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3><i class="fas fa-water"></i> Wastewater Optimization ML</h3>
+                    <p>Machine learning models to optimize wastewater treatment processes and reduce energy consumption.</p>
+                    <div class="badges">
+                        <span class="badge">Python</span>
+                        <span class="badge">ML</span>
+                        <span class="badge">Optimization</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h3><i class="fas fa-project-diagram"></i> ETL Pipeline Automation</h3>
+                    <p>Automated data pipelines with Airflow for processing environmental sensor data.</p>
+                    <div class="badges">
+                        <span class="badge">Airflow</span>
+                        <span class="badge">Python</span>
+                        <span class="badge">ETL</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h3><i class="fas fa-chart-bar"></i> Water Quality Analytics</h3>
+                    <p>Interactive dashboard for real-time water quality monitoring and analysis.</p>
+                    <div class="badges">
+                        <span class="badge">Data Visualization</span>
+                        <span class="badge">Streamlit</span>
+                        <span class="badge">Analytics</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="github">
+            <h2><i class="fab fa-github"></i> GitHub Statistics</h2>
+            <div class="github-stats">
+                <div class="stat-card">
+                    <h3>Repositories</h3>
+                    <p>42</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Followers</h3>
+                    <p>10</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Following</h3>
+                    <p>9</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Contributions</h3>
+                    <p>1.2K</p>
+                </div>
+            </div>
+            
+            <div class="interactive-section">
+                <h3><i class="fas fa-code-branch"></i> Repository Explorer</h3>
+                <p>Explore my GitHub repositories by category:</p>
+                
+                <div class="tabs">
+                    <button class="tab active" data-tab="data-eng">Data Engineering</button>
+                    <button class="tab" data-tab="ml">Machine Learning</button>
+                    <button class="tab" data-tab="devops">DevOps</button>
+                </div>
+                
+                <div class="tab-content active" id="data-eng-content">
+                    <ul>
+                        <li>Airflow-Theo - Created via Streamlit app</li>
+                        <li>Spark-Theo-Pro - Jupyter Notebook</li>
+                        <li>Kafka-Theo - Created via Streamlit app</li>
+                        <li>ElasticSearch-Theo - Other</li>
+                    </ul>
+                </div>
+                
+                <div class="tab-content" id="ml-content">
+                    <ul>
+                        <li>MachineLearning-Theo - Created via Streamlit app</li>
+                        <li>Wastewater Optimization ML - Python</li>
+                    </ul>
+                </div>
+                
+                <div class="tab-content" id="devops-content">
+                    <ul>
+                        <li>Docker-Podman_Theo - Docker and Podman knowledge base</li>
+                        <li>GithubAction-Pro - Python MIT License</li>
+                        <li>Linux_DataEng_Theo</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
+        <section id="contact">
+            <h2><i class="fas fa-envelope"></i> Contact Me</h2>
+            <div class="interactive-section">
+                <h3>Get in Touch</h3>
+                <p>Feel free to reach out for collaborations, consulting opportunities, or just to say hello!</p>
+                
+                <form id="contactForm">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" placeholder="Your Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" placeholder="Your Email">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" placeholder="Your Message"></textarea>
+                    </div>
+                    <button type="submit" class="submit-btn">Send Message</button>
+                </form>
+            </div>
+        </section>
+        
+        <footer>
+            <p>© 2025 Amin Mosallanejad | mosallanejadamin1400@gmail.com</p>
+            <p>MSc Data Science & Business Analytics | Data Engineering | Environmental Solutions</p>
+        </footer>
+    </div>
 
+    <script>
+        // Tab functionality
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                const target = tab.dataset.tab;
+                
+                // Deactivate all tabs
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+                
+                // Activate clicked tab
+                tab.classList.add('active');
+                document.getElementById(`${target}-content`).classList.add('active');
+            });
+        });
+        
+        // Form submission
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Thank you for your message! In a real implementation, this would send an email to Amin.');
+            this.reset();
+        });
+        
+        // Dark mode toggle
+        const modeToggle = document.getElementById('modeToggle');
+        let isDark = true;
+        
+        modeToggle.addEventListener('click', () => {
+            isDark = !isDark;
+            if (isDark) {
+                document.body.style.backgroundColor = '#0d1117';
+                document.body.style.color = '#f0f6fc';
+                modeToggle.innerHTML = '<i class="fas fa-moon"></i> Dark Mode';
+            } else {
+                document.body.style.backgroundColor = '#ecf0f1';
+                document.body.style.color = '#2c3e50';
+                modeToggle.innerHTML = '<i class="fas fa-sun"></i> Light Mode';
+            }
+        });
+        
+        // Animate skill bars on scroll
+        function animateSkillBars() {
+            document.querySelectorAll('.skill-level').forEach(skill => {
+                const width = skill.style.width;
+                skill.style.width = '0';
+                setTimeout(() => {
+                    skill.style.width = width;
+                }, 200);
+            });
+        }
+        
+        // Simple way to trigger animation when skills section is in view
+        setTimeout(animateSkillBars, 1000);
+    </script>
+</body>
+</html>
