@@ -96,7 +96,7 @@ Machine learning models to optimize wastewater treatment processes and reduce en
 ![Python](https://img.shields.io/badge/Python-ML-3776AB?style=flat&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Optimization-F7931E?style=flat&logo=scikit-learn)
 
-### [I love Airflow](https://github.com/AminMosallanejad339/Airflow-Theo)
+### [I love Airflow](https://github.com/AminMosallanejad339/Airflow_Theo)
 Automated data pipelines with Airflow for processing environmental sensor data.
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-ETL-017CEE?style=flat&logo=apache-airflow)
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python)
