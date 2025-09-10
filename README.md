@@ -66,7 +66,7 @@ I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a p
 
 ## 🚀 Featured Projects
 
-### [Wastewater Optimization ML](https://github.com/AminMosallanejad339/MachineLearning-Theo)
+### [MachineLearning](https://github.com/AminMosallanejad339/MachineLearning-Theo)
 Machine learning models to optimize wastewater treatment processes and reduce energy consumption.
 ![Python](https://img.shields.io/badge/Python-ML-3776AB?style=flat&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Optimization-F7931E?style=flat&logo=scikit-learn)
