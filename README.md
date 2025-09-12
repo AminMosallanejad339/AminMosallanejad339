@@ -102,11 +102,12 @@ Interactive dashboard for real-time water quality monitoring and analysis.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/AminMosallanejad339.png?username=AminMosallanejad339&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AminMosallanejad339&count_private=true&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminMosallanejad339&theme=react-dark&bg_color=0D1117&hide_border=true&color=1ABC9C&line=1ABC9C&point=FFFFFF" alt="GitHub Activity Graph" width="45%" />
 </p>
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AminMosallanejad339&theme=darkhub&row=1&margin-w=15" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AminMosallanejad339&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="90%" />
 </p>
 ---
 <p align="center">
