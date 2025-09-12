@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1500&color=F4D03F&center=true&vCenter=true&width=680&lines=Hello%2C+I+am+Amin+Mosallanejad;Utility+Engineer;Specialist+in+Water+and+Wastewater+Treatment;Data+Scientist+and+Data+Engineer;Nice+to+Meet+You!" alt="Typing SVG" />
 </p>
 
-## 👋 About Me
+## 👋 About Me 
 
 I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a passion for applying machine learning to optimize wastewater treatment processes. My unique background allows me to bridge the gap between engineering problems and data-driven solutions.
 
@@ -83,7 +83,7 @@ Interactive dashboard for real-time water quality monitoring and analysis.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:mosallanejadamin1400@gmail.com">
