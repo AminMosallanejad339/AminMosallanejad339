@@ -6,11 +6,11 @@
 
 I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a passion for applying machine learning to optimize wastewater treatment processes. My unique background allows me to bridge the gap between engineering problems and data-driven solutions.
 
-- 🔭 I’m currently working on **ML for Wastewater Optimization**
-- 🌱 I’m learning **Data Engineering techniques**
-- 👯 I’m looking to collaborate on **Environmental Data Science projects**
-- 💬 Lets Talk about **Water Treatment, Data Engineering**
-- 📫 How to reach me: **mosallanejadamin1400@gmail.com**
+- I’m currently working on **ML for Wastewater Optimization**
+- I’m learning **Data Engineering techniques**
+- I’m looking to collaborate on **Environmental Data Science projects**
+- Lets Talk about **Water Treatment, Data Engineering**
+- How to reach me: **mosallanejadamin1400@gmail.com**
 
 ---
 ## 🛠️ Technologies & Tools
@@ -102,8 +102,8 @@ Interactive dashboard for real-time water quality monitoring and analysis.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminMosallanejad339&count_private=true&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminMosallanejad339&theme=react-dark&bg_color=0D1117&hide_border=true&color=1ABC9C&line=1ABC9C&point=FFFFFF" alt="GitHub Activity Graph" width="45%" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminMosallanejad339&bg_color=0D1117&color=1ABC9C&line=1ABC9C&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 </p>
 ---
 <p align="center">
