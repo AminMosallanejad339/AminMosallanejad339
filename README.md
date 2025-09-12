@@ -13,7 +13,7 @@ I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a p
 - How to reach me: **mosallanejadamin1400@gmail.com**
 
 ---
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Data Science 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -64,7 +64,7 @@ I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a p
 ---
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [MachineLearning](https://github.com/AminMosallanejad339/MachineLearning-Theo)
 Machine learning models to optimize wastewater treatment processes and reduce energy consumption.
@@ -99,7 +99,7 @@ Interactive dashboard for real-time water quality monitoring and analysis.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <!-- Activity Graph -->
