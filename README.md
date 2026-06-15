@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1500&color=F4D03F&center=true&vCenter=true&width=680&lines=Hello%2C+I+am+Amin+Mosallanejad;Utility+Engineer;Specialist+in+Water+and+Wastewater+Treatment;Data+Scientist+and+Data+Engineer;Nice+to+Meet+You!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1800&color=39FF14&center=true&vCenter=true&width=1050&lines=I+turn+wastewater+problems+into+data+solutions;Hi%2C+I'm+Amin+Mosallanejad+—+Chemical+Engineer+%2B+Data+Scientist;For+more+than+a+decade%2C+I+kept+utility+systems+running+at+South+Pars+Gas+Complex;Then+I+asked+myself%3A+what+if+we+could+predict+failures+before+they+happen%3F;So+I+mastered+Machine+Learning%2C+Data+Engineering;Today+I+help+optimize+wastewater+treatment+plants+using+Python+%26+Docker;My+mission%3A+bring+AI+into+environmental+engineering;If+you+care+about+clean+water%2C+sustainable+energy%2C+or+predictive+maintenance;Let's+talk.+I'm+open+to+collaboration%2C+consulting%2C+and+exciting+projects;mosallanejadamin1400%40gmail.com" alt="Typing SVG" />
 </p>
 
-## 👋 About Me 
+## 👋 About Me
 
-I'm a Chemical Engineer turned **Data Scientist** and **Data Engineer** with a passion for applying machine learning to optimize wastewater treatment processes. My unique background allows me to bridge the gap between engineering problems and data-driven solutions.
+I am a Chemical Engineer turned **Data Scientist** and **Data Engineer**, specializing in the application of machine learning and data engineering pipelines to optimize industrial wastewater treatment processes. My interdisciplinary background enables me to effectively bridge domain expertise in chemical engineering with modern, data-driven solutions for environmental and operational challenges.
 
-- I’m currently working on **ML for Wastewater Optimization**
-- I’m learning **Data Engineering techniques**
-- I’m looking to collaborate on **Environmental Data Science projects**
-- Lets Talk about **Water Treatment, Data Engineering**
-- How to reach me: **mosallanejadamin1400@gmail.com**
+-  Currently focusing on **Machine Learning for Wastewater Process Optimization & Bottleneck Identification**
+-  Expanding expertise in **Big Data Engineering Pipelines (Spark, Kafka, Docker)**
+-  Open to collaborating on **Environmental Data Science**, **Industrial AI**, and **Process Automation** projects
+-  Passionate about **Water & Wastewater Treatment**, **Data Engineering**, **Time-Series Forecasting**, and **Predictive Maintenance**
+-  Reach me at: **mosallanejadamin1400@gmail.com**
 
 ---
 ##  Technologies & Tools
