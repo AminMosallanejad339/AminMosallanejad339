@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1400&color=0FFF50&center=true&vCenter=true&width=950&lines=Welcome+to+my+profile;I+turn+wastewater+problems+into+data-driven+solutions;I+am+Amin+Mosallanejad;Chemical+Engineer+and+Data+Scientist;I+spent+over+10+years+in+utility+operations;And+5+years+in+process+engineering;All+at+South+Pars+Gas+Complex;Then+I+transitioned+to+Data+Science;To+predict+failures+and+optimize+performance;I+specialize+in+Machine+Learning+and+Data+Engineering;I+now+optimize+wastewater+treatment+plants+using+Python;My+mission+is+to+bring+AI+into+environmental+engineering;Open+to+collaboration+—+Research+%7C+Consulting+%7C+Data+Engineering;Reach+me%3A+mosallanejadamin1400%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1400&color=0FFF50&center=true&vCenter=true&width=950&lines=Welcome+to+my+profile;I+turn+wastewater+problems+into+data-driven+solutions;I+am+Amin+Mosallanejad;Chemical+Engineer+and+Data+Scientist;I+spent+over+12+years+in+utility+operations;And+5+years+in+utility+engineering;All+at+South+Pars+Gas+Complex;Then+I+transitioned+to+Data+Science;To+predict+failures+and+optimize+performance;I+specialize+in+Machine+Learning+and+Data+Engineering;I+now+optimize+wastewater+treatment+plants+using+Python;My+mission+is+to+bring+AI+into+environmental+engineering;Open+to+collaboration+—+Research+%7C+Consulting+%7C+Data+Engineering;Reach+me%3A+mosallanejadamin1400%40gmail.com" alt="Typing SVG" />
 </p>
  
 
@@ -9,7 +9,7 @@ I am a Chemical Engineer turned **Data Scientist** and **Data Engineer**, specia
 
 -  Currently focusing on **Machine Learning for Wastewater Process Optimization & Bottleneck Identification**
 -  Expanding expertise in **Big Data Engineering Pipelines (Spark, Kafka, Docker)**
--  Open to collaborating on **Environmental Data Science**, **Industrial AI**, and **Process Automation** projects
+-  Open to collaborating on **Environmental Data Science**, **Industrial AI**, and **cess Automation** jects
 -  Passionate about **Water & Wastewater Treatment**, **Data Engineering**, **Time-Series Forecasting**, and **Predictive Maintenance**
 -  Reach me at: **mosallanejadamin1400@gmail.com**
 
