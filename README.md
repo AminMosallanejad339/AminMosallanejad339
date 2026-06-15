@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1800&color=39FF14&center=true&vCenter=true&width=1050&lines=I+turn+wastewater+problems+into+data+solutions;Hi%2C+I'm+Amin+Mosallanejad+—+Chemical+Engineer+%2B+Data+Scientist;For+more+than+a+decade%2C+I+kept+utility+systems+running+at+South+Pars+Gas+Complex;Then+I+asked+myself%3A+what+if+we+could+predict+failures+before+they+happen%3F;So+I+mastered+Machine+Learning%2C+Data+Engineering;Today+I+help+optimize+wastewater+treatment+plants+using+Python+%26+Docker;My+mission%3A+bring+AI+into+environmental+engineering;If+you+care+about+clean+water%2C+sustainable+energy%2C+or+predictive+maintenance;Let's+talk.+I'm+open+to+collaboration%2C+consulting%2C+and+exciting+projects;mosallanejadamin1400%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1400&color=0FFF50&center=true&vCenter=true&width=950&lines=Welcome+to+my+profile;I+turn+wastewater+problems+into+data-driven+solutions;I+am+Amin+Mosallanejad;Chemical+Engineer+and+Data+Scientist;I+spent+over+10+years+in+utility+operations;And+5+years+in+process+engineering;All+at+South+Pars+Gas+Complex;Then+I+transitioned+to+Data+Science;To+predict+failures+and+optimize+performance;I+specialize+in+Machine+Learning+and+Data+Engineering;I+now+optimize+wastewater+treatment+plants+using+Python;My+mission+is+to+bring+AI+into+environmental+engineering;Open+to+collaboration+—+Research+%7C+Consulting+%7C+Data+Engineering;Reach+me%3A+mosallanejadamin1400%40gmail.com" alt="Typing SVG" />
 </p>
+ 
 
 ## 👋 About Me
 
