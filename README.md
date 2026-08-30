@@ -1,121 +1,35 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1400&color=0FFF50&center=true&vCenter=true&width=950&lines=Welcome+to+my+profile;I+turn+wastewater+problems+into+data-driven+solutions;I+am+Amin+Mosallanejad;Chemical+Engineer+and+Data+Scientist;I+spent+over+17+years+in+utility+operations;And+5+years+in+utility+engineering;All+at+South+Pars+Gas+Complex;Then+I+transitioned+to+Data+Science;To+predict+failures+and+optimize+performance;I+specialize+in+Machine+Learning+and+Data+Engineering;I+now+optimize+wastewater+treatment+plants+using+Python;My+mission+is+to+bring+AI+into+environmental+engineering;Open+to+collaboration+—+Research+%7C+Consulting+%7C+Data+Engineering;Reach+me%3A+mosallanejadamin1400%40gmail.com" alt="Typing SVG" />
-</p>
- 
+<div align="center">
 
-## 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,45:080C10,75:0D1117,100:00F5A0&height=220&section=header&text=AMIN%20MOSALLANEJAD&fontSize=48&fontColor=00F5A0&fontAlignY=38&desc=CHEMICAL%20ENGINEER%20%7C%20DATA%20SCIENTIST%20%7C%20DATA%20ENGINEER&descAlignY=62&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-I am a Chemical Engineer turned **Data Scientist** and **Data Engineer**, specializing in the application of machine learning and data engineering pipelines to optimize industrial wastewater treatment processes. My interdisciplinary background enables me to effectively bridge domain expertise in chemical engineering with modern, data-driven solutions for environmental and operational challenges.
+<br>
 
--  Currently focusing on **Machine Learning for Wastewater Process Optimization & Bottleneck Identification**
--  Expanding expertise in **Big Data Engineering Pipelines (Spark, Kafka, Docker)**
--  Open to collaborating on **Environmental Data Science**, **Industrial AI**, and **cess Automation** jects
--  Passionate about **Water & Wastewater Treatment**, **Data Engineering**, **Time-Series Forecasting**, and **Predictive Maintenance**
--  Reach me at: **mosallanejadamin1400@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=00F5A0&center=true&vCenter=true&width=850&lines=17%2B+YEARS+%7C+INDUSTRIAL+UTILITY+OPERATIONS;INDUSTRIAL+AI+%7C+WASTEWATER+%7C+MACHINE+LEARNING;DATA+ENGINEERING+%7C+TIME-SERIES;ENGINEERING+REALITY+MEETS+DATA+INTELLIGENCE" alt="Typing SVG"/>
 
----
-##  Technologies & Tools
+<br><br>
 
-### Data Science 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1014&height=80&text=PROCESS%20%20%E2%86%92%20%20DATA%20%20%E2%86%92%20%20INTELLIGENCE&fontSize=22&fontColor=00F5A0&fontAlignY=50&stroke=00F5A0&strokeWidth=1" width="82%"/>
 
-### Deep Learning & NLP
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+<br><br><br>
 
-### Mathematics 
-[![Calculus](https://img.shields.io/badge/Calculus-1E8449?style=for-the-badge&logo=mathworks&logoColor=white)](https://en.wikipedia.org/wiki/Calculus)
-[![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-2E86AB?style=for-the-badge&logo=mathworks&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
-[![Probability](https://img.shields.io/badge/Probability-8E44AD?style=for-the-badge&logo=mathworks&logoColor=white)](https://en.wikipedia.org/wiki/Probability)
-[![Statistics](https://img.shields.io/badge/Statistics-3498DB?style=for-the-badge&logo=mathworks&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&text=CHEMICAL%20ENGINEERING%20%20%C3%97%20%20DATA%20SCIENCE%20%20%C3%97%20%20INDUSTRIAL%20AI&fontSize=16&fontColor=FFFFFF&fontAlignY=50&stroke=1ABC9C&strokeWidth=1" width="78%"/>
 
-### Data Engineering
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)](https://spark.apache.org/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/)
-[![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-00B0EF?style=for-the-badge&logo=apachenifi&logoColor=white)](https://nifi.apache.org/)
+<br><br><br>
 
-### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MinIO](https://img.shields.io/badge/MinIO-8C4FFF?style=for-the-badge&logo=minio&logoColor=white)](https://min.io/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+<a href="https://github.com/AminMosallanejad339">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5A0&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/amin-mosallanejad">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5A0&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://aminmosallanejad339.github.io">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F5A0&labelColor=0D1117"/>
+</a>
 
-### DevOps
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=githubactions&logoColor=white)](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+<br><br><br>
 
-### Utilities & Others
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,45:0D1117,75:1ABC9C,100:00F5A0&height=110&section=footer" width="100%"/>
 
----
-
-
-##  Featured Projects
-
-### [MachineLearning](https://github.com/AminMosallanejad339/MachineLearning-Theo)
-Machine learning models to optimize wastewater treatment processes and reduce energy consumption.
-![Python](https://img.shields.io/badge/Python-ML-3776AB?style=flat&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Optimization-F7931E?style=flat&logo=scikit-learn)
-
-### [I love Airflow](https://github.com/AminMosallanejad339/Airflow_Theo)
-Automated data pipelines with Airflow for processing environmental sensor data.
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-ETL-017CEE?style=flat&logo=apache-airflow)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python)
-
-### [Linux Practice Lab](https://github.com/AminMosallanejad339/LabForLinux_Pro)
-Interactive dashboard for real-time water quality monitoring and analysis.
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Analytics-1ABC9C?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat&logo=streamlit)
-
----
-
-##  Connect With Me
-
-<p align="center">
-  <a href="mailto:mosallanejadamin1400@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/amin-mosallanejad">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://aminmosallanejad339.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminMosallanejad339&bg_color=0D1117&color=1ABC9C&line=1ABC9C&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
-</p>
----
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AminMosallanejad339&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="90%" />
-</p>
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminMosallanejad339&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminMosallanejad339&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=FFFFFF" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
-  <i>"Turning data into solutions for a sustainable future"</i>
-</p>
+</div>
