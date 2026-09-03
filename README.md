@@ -12,17 +12,5 @@
 
 <br><br>
 
-<!-- دکمه‌های ارتباطی -->
-<a href="https://github.com/AminMosallanejad339">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0D1117"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/amin-mosallanejad">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=0D1117"/>
-</a>
-&nbsp;
-<a href="https://aminmosallanejad339.github.io">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF&labelColor=0D1117"/>
-</a>
 
 </div>
