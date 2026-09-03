@@ -5,9 +5,17 @@
 
 <br><br>
 
-<!-- معرفی متحرک (سلام و سوابق شغلی و تحصیلی بر اساس رزومه) -->
+<!-- معرفی متحرک بر اساس-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1400&color=FFD700&center=true&vCenter=true&width=900&lines=Hello!+I+am+Amin+Mosallanejad;Senior+Utility+Engineer+with+17%2B+Years+in+Oil+%26+Gas;M.Sc.+in+Data+Science+%26+Business+Analytics+(APU);M.Sc.+in+Chemical+Engineering+(IAU);Expertise+in+Water%2FWastewater,+Steam+%26+Data+Engineering;Turning+Industrial+Processes+into+Data-Driven+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=Hello!+I+am+Amin+Mosallanejad;A+Chemical+Engineer+turned+Bio-Data+Scientist;17%2B+Years+of+Industrial+Expertise;Bridging+Biotechnology,+Data+Science,+and+Bioinformatics;Leveraging+Machine+Learning+for+Industrial+Bioprocesses;Optimizing+Wastewater+Treatment+and+Environmental+Systems" alt="Typing SVG" />
+</p>
+
+<br><br>
+
+<!-- مهارت‌های فنی و برنامه‌نویسی (ثابت) -->
+<h3 align="center" style="color: #FFD700;"> Technical & Programming Skills</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,tensorflow,sklearn,spark,hadoop,docker,aws,git&perline=6" alt="Technical Skills" />
 </p>
 
 </div>
