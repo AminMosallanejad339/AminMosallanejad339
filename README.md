@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- عکس بنر شما -->
-<img src="1783164112290.jpg" alt="Amin Mosallanejad Banner" width="100%" />
+<img src="j4NzT.jpg" alt="Amin Mosallanejad Banner" width="100%" />
 
 <br><br>
 
